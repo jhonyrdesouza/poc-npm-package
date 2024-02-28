@@ -1,0 +1,11 @@
+{
+  "name": "@jhonyrdesouza/poc-npm-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": "Jhony Souza",
+  "license": "ISC",
+  "description": ""
+}
